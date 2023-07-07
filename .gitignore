@@ -1,4 +1,4 @@
 *.sqlite3
 local_*.py
-
+media/item_images/*
 **/__pycache__/
